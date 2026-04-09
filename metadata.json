@@ -1,0 +1,5 @@
+{
+  "name": "PatentDraft AI",
+  "description": "An AI-powered patent drafting system that analyzes inventions, performs prior art searches, and generates complete patent documents.",
+  "requestFramePermissions": []
+}
